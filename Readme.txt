@@ -1,1 +1,1 @@
-Keyword Cipher v1.0
+Cryptology_analysis_program v1.0
