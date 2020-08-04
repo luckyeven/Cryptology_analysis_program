@@ -17,7 +17,7 @@ Cryptology_analysis_program v1.0
 * [KeyWord Cipher](#KeyWordCipher)
     * [Demo](#Demo)
    
-### KeyWord Cipher
+### KeyWordCipher
 ------------------
 ```
 A keyword cipher is a form of monoalphabetic substitution. A keyword is used as the key,   
