@@ -37,12 +37,14 @@ the key.
 
 In the Crptplogyy_analysis_program file. compile ****keyCipher.java**** and run ****keyCipher****.  
 
+| Screen shot |
+| ---- |
+|![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035442.png)|
+|![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035412.png?time=1596528811)|
+|![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035344.png?time=1596528811)|
+
+ 
 
 
-![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035442.png)  
-
-![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035412.png?time=1596528811)  
-
-![](https://secureservercdn.net/198.71.233.47/k3x.d37.myftpupload.com/wp-content/uploads/2020/08/WeChat-Screenshot_20200804035344.png?time=1596528811)  
 
 
